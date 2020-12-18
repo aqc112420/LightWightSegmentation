@@ -2,7 +2,7 @@
 This repository is used as a framework for my final thesis
 
 ## Now the Project has including the lightweight model:
-1.ENet, paper:https://arxiv.org/abs/1606.02147
+1.ENet, paper:https://arxiv.org/abs/1606.02147\n
 2.ERFNet, paper:https://ieeexplore.ieee.org/document/8063438
 3.CGNet, paper:https://arxiv.org/abs/1811.08201
 4.LEDNet, paper:https://arxiv.org/abs/1905.02423
